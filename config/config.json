@@ -2,10 +2,10 @@
     "thresh": 10,
     "open_threshold_seconds": 60,
     "display": true,
-    "twilio_sid": "ACbd7ed667b6eb619418662e286adca90c",
-    "twilio_auth": "69ca9c1862c484fffb97aacdf0cd2d62",
-    "twilio_to": "+32488598124",
-    "twilio_from": "+18566775871",
-    "twilio_id":"jozef van damstraat 15 1932"
+    "twilio_sid": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    "twilio_auth": "xxxxxxxxxxxxxxxxxxxxx",
+    "twilio_to": "xxxxxxxxxxxxxxxx",
+    "twilio_from": "xxxxxxxxxxxxxxxxxx",
+    "twilio_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 }
